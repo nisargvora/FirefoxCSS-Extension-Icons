@@ -1,0 +1,16 @@
+
+#ublock0_raymondhill_net-browser-action:not(:hover):not([open]) {
+    mix-blend-mode: luminosity;
+}
+
+#umatrix_raymondhill_net-browser-action:not(:hover):not([open]) {
+    mix-blend-mode: luminosity;
+}
+
+#session-sync_gabrielivanica_com-browser-action {
+    mix-blend-mode: luminosity;
+}
+
+#addon_darkreader_org-browser-action {
+    mix-blend-mode: luminosity;
+}
